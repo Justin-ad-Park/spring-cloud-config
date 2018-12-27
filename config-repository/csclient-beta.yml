@@ -1,0 +1,5 @@
+sampleconfig:
+    profile: It is real
+    app:
+        first: Hello
+        second: world
